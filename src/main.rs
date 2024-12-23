@@ -33,7 +33,8 @@ mod day16b;
 mod day17a;
 mod day17b;
 mod day18a;
+mod day18b;
 
 fn main() {
-    day18a::main();
+    day18b::main();
 }
