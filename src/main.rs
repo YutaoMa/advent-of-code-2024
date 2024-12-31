@@ -39,7 +39,9 @@ mod day19b;
 mod day20a;
 mod day20b;
 mod day22a;
+mod day23a;
+mod day23b;
 
 fn main() {
-    day22a::main();
+    day23b::main();
 }
